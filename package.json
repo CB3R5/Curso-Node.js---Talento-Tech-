@@ -1,0 +1,12 @@
+{
+  "name": "pre-entrega-nodejs",
+  "version": "1.0.0",
+  "description": "CLI para gestionar productos utilizando Node.js y FakeStore API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leonel Cabral",
+  "license": "MIT"
+}
